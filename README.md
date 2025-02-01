@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harsh-udani/daily_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harsh-udani/daily_code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harsh-udani/daily_code/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/harsh-udani/daily_code/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -35,4 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/harsh-udani/daily_code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harsh-udani/daily_code/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/harsh-udani/daily_code/tree/master/0567-permutation-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/harsh-udani/daily_code/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/harsh-udani/daily_code/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
