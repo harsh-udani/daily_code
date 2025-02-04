@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/harsh-udani/daily_code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/harsh-udani/daily_code/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/harsh-udani/daily_code/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -53,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harsh-udani/daily_code/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/harsh-udani/daily_code/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/harsh-udani/daily_code/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/harsh-udani/daily_code/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
