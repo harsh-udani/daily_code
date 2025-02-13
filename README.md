@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/harsh-udani/daily_code/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harsh-udani/daily_code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/harsh-udani/daily_code/tree/master/0567-permutation-in-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harsh-udani/daily_code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/harsh-udani/daily_code/tree/master/1013-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harsh-udani/daily_code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
