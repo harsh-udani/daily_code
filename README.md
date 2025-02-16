@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harsh-udani/daily_code/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/harsh-udani/daily_code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/harsh-udani/daily_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harsh-udani/daily_code/tree/master/0283-move-zeroes) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harsh-udani/daily_code/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/harsh-udani/daily_code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harsh-udani/daily_code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/harsh-udani/daily_code/tree/master/0189-rotate-array) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harsh-udani/daily_code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/harsh-udani/daily_code/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
