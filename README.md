@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/harsh-udani/daily_code/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/harsh-udani/daily_code/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/harsh-udani/daily_code/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/harsh-udani/daily_code/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/harsh-udani/daily_code/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/harsh-udani/daily_code/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/harsh-udani/daily_code/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
