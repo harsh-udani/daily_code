@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/harsh-udani/daily_code/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harsh-udani/daily_code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harsh-udani/daily_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2665-minimum-time-to-repair-cars](https://github.com/harsh-udani/daily_code/tree/master/2665-minimum-time-to-repair-cars) |
 ## Binary Search
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harsh-udani/daily_code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/harsh-udani/daily_code/tree/master/2665-minimum-time-to-repair-cars) |
 ## Prefix Sum
 |  |
 | ------- |
