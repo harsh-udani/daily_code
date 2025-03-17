@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/harsh-udani/daily_code/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harsh-udani/daily_code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harsh-udani/daily_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2308-divide-array-into-equal-pairs](https://github.com/harsh-udani/daily_code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/harsh-udani/daily_code/tree/master/2665-minimum-time-to-repair-cars) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsh-udani/daily_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0567-permutation-in-string](https://github.com/harsh-udani/daily_code/tree/master/0567-permutation-in-string) |
+| [2308-divide-array-into-equal-pairs](https://github.com/harsh-udani/daily_code/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,8 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harsh-udani/daily_code/tree/master/0078-subsets) |
+| [2308-divide-array-into-equal-pairs](https://github.com/harsh-udani/daily_code/tree/master/2308-divide-array-into-equal-pairs) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harsh-udani/daily_code/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/harsh-udani/daily_code/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
