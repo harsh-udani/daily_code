@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/harsh-udani/daily_code/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/harsh-udani/daily_code/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/harsh-udani/daily_code/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/harsh-udani/daily_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/harsh-udani/daily_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harsh-udani/daily_code/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/harsh-udani/daily_code/tree/master/0724-find-pivot-index) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harsh-udani/daily_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harsh-udani/daily_code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harsh-udani/daily_code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harsh-udani/daily_code/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
