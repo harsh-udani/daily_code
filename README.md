@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/harsh-udani/daily_code/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/harsh-udani/daily_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/harsh-udani/daily_code/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/harsh-udani/daily_code/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/harsh-udani/daily_code/tree/master/0078-subsets) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/harsh-udani/daily_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harsh-udani/daily_code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/harsh-udani/daily_code/tree/master/2665-minimum-time-to-repair-cars) |
 ## Prefix Sum
