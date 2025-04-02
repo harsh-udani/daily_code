@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harsh-udani/daily_code/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/harsh-udani/daily_code/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harsh-udani/daily_code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harsh-udani/daily_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/harsh-udani/daily_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harsh-udani/daily_code/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/harsh-udani/daily_code/tree/master/0724-find-pivot-index) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh-udani/daily_code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harsh-udani/daily_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harsh-udani/daily_code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/harsh-udani/daily_code/tree/master/2665-minimum-time-to-repair-cars) |
 ## Prefix Sum
